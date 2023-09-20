@@ -1,10 +1,4 @@
-# kreativstorm-javascript-game
+# Rock-paper-scissors-game only with JS
 
-## Live Preview : https://renaldas0.github.io/kreativstorm-javascript-game/
+## Live Preview : https://jazzy-belekoy-3cbb39.netlify.app/
 
-### Contributors
-- Arihant Swain - [Github](https://github.com/ArihantSwain)
-- Renaldas - [Github](https://github.com/Renaldas0)
-- Hadeer - [Github](https://github.com/hadeer57)
-- Sumayyah Husain -[Github](https://github.com/sumayyahhusain)
-- Miguel Carmona - [Github](https://github.com/MiguelCarmonaF)
